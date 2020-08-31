@@ -1,0 +1,63 @@
+#taskcontainer{
+    display:flex ;
+    flex-direction: row;
+    
+}
+.heading
+{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: xx-large;
+}
+
+
+img {
+    width: 80%;
+    height: 30%;
+   }
+   .mainHeading{
+       font-family: sans-serif;
+       text-align: center;
+       font-size: xx-large;
+   }
+.card {
+    width:30% ;
+    height:20%;
+    box-shadow: 10px 10px 5px 0px rgba(238, 238, 238, 1);
+    margin: 15px;
+    text-align: center;
+    padding-bottom: 10px;
+    }
+#taskcontainer.h1
+{
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ font-size: medium;
+}
+ #btn1 
+ {
+    border-radius: 8px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    background-color:green;
+    border:green;
+    width: 80px ;
+ } 
+ #addButton 
+ {
+    border-radius: 8px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    background-color:green;
+    border:green;
+    width: 80px ;
+ } 
+ #addTask
+ {
+    border-radius: 8px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    background-color:green;
+    border:green;
+    width: 80px ;
+    height:35px;
+    padding:10px ;
+    font-size:15px ;
+     
+ } 
+ 
